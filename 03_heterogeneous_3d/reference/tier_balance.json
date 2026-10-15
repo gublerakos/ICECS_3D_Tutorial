@@ -1,0 +1,687 @@
+{
+  "top_lef_macro_count": 135,
+  "bottom_lef_macro_count": 76,
+  "top_liberty_cell_count": 134,
+  "bottom_liberty_cell_count": 76,
+  "total_instances": 2493045,
+  "top_instances": 513073,
+  "bottom_instances": 1979972,
+  "unknown_instances": 0,
+  "top_area": 652317.1199999998,
+  "bottom_area": 652317.3576959999,
+  "unknown_area": 0.0,
+  "total_area": 1304634.4776959997,
+  "top_area_pct": 49.999990890321996,
+  "bottom_area_pct": 50.000009109678004,
+  "missing_physical_master_instances": 0,
+  "missing_physical_master_pct": 0.0,
+  "missing_physical_masters": [],
+  "masters": [
+    {
+      "master": "DFFRNQ_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 516887,
+      "area_each": 0.775424,
+      "total_area": 400806.585088,
+      "has_lef": true
+    },
+    {
+      "master": "INV_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 401020,
+      "area_each": 0.08947200000000001,
+      "total_area": 35880.061440000005,
+      "has_lef": true
+    },
+    {
+      "master": "OAI22_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 245730,
+      "area_each": 0.208768,
+      "total_area": 51300.56064,
+      "has_lef": true
+    },
+    {
+      "master": "NAND2_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 217516,
+      "area_each": 0.11929600000000001,
+      "total_area": 25948.788736000002,
+      "has_lef": true
+    },
+    {
+      "master": "OAI21_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 181473,
+      "area_each": 0.17894400000000002,
+      "total_area": 32473.504512000003,
+      "has_lef": true
+    },
+    {
+      "master": "AOI22_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 146439,
+      "area_each": 0.208768,
+      "total_area": 30571.777152000002,
+      "has_lef": true
+    },
+    {
+      "master": "OAI22_X1_top_tier",
+      "tier": "top",
+      "count": 135801,
+      "area_each": 1.3299999999999998,
+      "total_area": 180615.33,
+      "has_lef": true
+    },
+    {
+      "master": "AOI22_X1_top_tier",
+      "tier": "top",
+      "count": 112031,
+      "area_each": 1.3299999999999998,
+      "total_area": 149001.22999999998,
+      "has_lef": true
+    },
+    {
+      "master": "INV_X1_top_tier",
+      "tier": "top",
+      "count": 67444,
+      "area_each": 0.5319999999999999,
+      "total_area": 35880.20799999999,
+      "has_lef": true
+    },
+    {
+      "master": "NOR2_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 38213,
+      "area_each": 0.11929600000000001,
+      "total_area": 4558.658048,
+      "has_lef": true
+    },
+    {
+      "master": "NAND4_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 33343,
+      "area_each": 0.208768,
+      "total_area": 6960.951424,
+      "has_lef": true
+    },
+    {
+      "master": "NAND2_X1_top_tier",
+      "tier": "top",
+      "count": 32466,
+      "area_each": 0.7979999999999999,
+      "total_area": 25907.868,
+      "has_lef": true
+    },
+    {
+      "master": "OAI21_X1_top_tier",
+      "tier": "top",
+      "count": 30480,
+      "area_each": 1.0639999999999998,
+      "total_area": 32430.719999999994,
+      "has_lef": true
+    },
+    {
+      "master": "INV_X2_bottom_tier",
+      "tier": "bottom",
+      "count": 30042,
+      "area_each": 0.11929600000000001,
+      "total_area": 3583.8904320000006,
+      "has_lef": true
+    },
+    {
+      "master": "BUF_X2_bottom_tier",
+      "tier": "bottom",
+      "count": 26868,
+      "area_each": 0.14912,
+      "total_area": 4006.55616,
+      "has_lef": true
+    },
+    {
+      "master": "DFFSNQ_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 24828,
+      "area_each": 0.775424,
+      "total_area": 19252.227072,
+      "has_lef": true
+    },
+    {
+      "master": "NAND4_X1_top_tier",
+      "tier": "top",
+      "count": 24826,
+      "area_each": 1.3299999999999998,
+      "total_area": 33018.579999999994,
+      "has_lef": true
+    },
+    {
+      "master": "BUF_X4_top_tier",
+      "tier": "top",
+      "count": 18420,
+      "area_each": 1.8619999999999999,
+      "total_area": 34298.04,
+      "has_lef": true
+    },
+    {
+      "master": "SDFFSNQ_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 13706,
+      "area_each": 0.8947200000000001,
+      "total_area": 12263.03232,
+      "has_lef": true
+    },
+    {
+      "master": "OR2_X2_bottom_tier",
+      "tier": "bottom",
+      "count": 13501,
+      "area_each": 0.208768,
+      "total_area": 2818.576768,
+      "has_lef": true
+    },
+    {
+      "master": "NOR4_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 11433,
+      "area_each": 0.208768,
+      "total_area": 2386.844544,
+      "has_lef": true
+    },
+    {
+      "master": "AOI21_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 10905,
+      "area_each": 0.17894400000000002,
+      "total_area": 1951.3843200000001,
+      "has_lef": true
+    },
+    {
+      "master": "INV_X4_top_tier",
+      "tier": "top",
+      "count": 10763,
+      "area_each": 1.3299999999999998,
+      "total_area": 14314.789999999999,
+      "has_lef": true
+    },
+    {
+      "master": "XOR2_X1_top_tier",
+      "tier": "top",
+      "count": 8767,
+      "area_each": 1.5959999999999999,
+      "total_area": 13992.132,
+      "has_lef": true
+    },
+    {
+      "master": "NOR4_X1_top_tier",
+      "tier": "top",
+      "count": 8491,
+      "area_each": 1.3299999999999998,
+      "total_area": 11293.029999999999,
+      "has_lef": true
+    },
+    {
+      "master": "NAND3_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 8151,
+      "area_each": 0.17894400000000002,
+      "total_area": 1458.572544,
+      "has_lef": true
+    },
+    {
+      "master": "INV_X8_top_tier",
+      "tier": "top",
+      "count": 7863,
+      "area_each": 2.3939999999999997,
+      "total_area": 18824.021999999997,
+      "has_lef": true
+    },
+    {
+      "master": "BUF_X8_top_tier",
+      "tier": "top",
+      "count": 5959,
+      "area_each": 3.458,
+      "total_area": 20606.222,
+      "has_lef": true
+    },
+    {
+      "master": "AND2_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 5921,
+      "area_each": 0.17894400000000002,
+      "total_area": 1059.527424,
+      "has_lef": true
+    },
+    {
+      "master": "NOR2_X1_top_tier",
+      "tier": "top",
+      "count": 5773,
+      "area_each": 0.7979999999999999,
+      "total_area": 4606.853999999999,
+      "has_lef": true
+    },
+    {
+      "master": "CLKBUF_X2_bottom_tier",
+      "tier": "bottom",
+      "count": 5724,
+      "area_each": 0.14912,
+      "total_area": 853.5628800000001,
+      "has_lef": true
+    },
+    {
+      "master": "CLKBUF_X4_bottom_tier",
+      "tier": "bottom",
+      "count": 5706,
+      "area_each": 0.23859200000000003,
+      "total_area": 1361.405952,
+      "has_lef": true
+    },
+    {
+      "master": "NOR2_X2_bottom_tier",
+      "tier": "bottom",
+      "count": 5144,
+      "area_each": 0.17894400000000002,
+      "total_area": 920.4879360000001,
+      "has_lef": true
+    },
+    {
+      "master": "OR2_X2_top_tier",
+      "tier": "top",
+      "count": 5060,
+      "area_each": 1.3299999999999998,
+      "total_area": 6729.799999999999,
+      "has_lef": true
+    },
+    {
+      "master": "INV_X4_bottom_tier",
+      "tier": "bottom",
+      "count": 5033,
+      "area_each": 0.17894400000000002,
+      "total_area": 900.6251520000001,
+      "has_lef": true
+    },
+    {
+      "master": "INV_X2_top_tier",
+      "tier": "top",
+      "count": 4518,
+      "area_each": 0.7979999999999999,
+      "total_area": 3605.3639999999996,
+      "has_lef": true
+    },
+    {
+      "master": "NOR3_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 4244,
+      "area_each": 0.17894400000000002,
+      "total_area": 759.438336,
+      "has_lef": true
+    },
+    {
+      "master": "NAND2_X2_bottom_tier",
+      "tier": "bottom",
+      "count": 4230,
+      "area_each": 0.17894400000000002,
+      "total_area": 756.93312,
+      "has_lef": true
+    },
+    {
+      "master": "OR2_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 4005,
+      "area_each": 0.17894400000000002,
+      "total_area": 716.6707200000001,
+      "has_lef": true
+    },
+    {
+      "master": "AND2_X2_bottom_tier",
+      "tier": "bottom",
+      "count": 3784,
+      "area_each": 0.208768,
+      "total_area": 789.978112,
+      "has_lef": true
+    },
+    {
+      "master": "BUF_X2_top_tier",
+      "tier": "top",
+      "count": 3754,
+      "area_each": 1.0639999999999998,
+      "total_area": 3994.2559999999994,
+      "has_lef": true
+    },
+    {
+      "master": "INV_X12_bottom_tier",
+      "tier": "bottom",
+      "count": 3719,
+      "area_each": 0.417536,
+      "total_area": 1552.816384,
+      "has_lef": true
+    },
+    {
+      "master": "FA_X1_top_tier",
+      "tier": "top",
+      "count": 3142,
+      "area_each": 4.255999999999999,
+      "total_area": 13372.351999999997,
+      "has_lef": true
+    },
+    {
+      "master": "AND4_X1_top_tier",
+      "tier": "top",
+      "count": 3067,
+      "area_each": 1.5959999999999999,
+      "total_area": 4894.932,
+      "has_lef": true
+    },
+    {
+      "master": "BUF_X12_bottom_tier",
+      "tier": "bottom",
+      "count": 3027,
+      "area_each": 0.59648,
+      "total_area": 1805.54496,
+      "has_lef": true
+    },
+    {
+      "master": "CLKBUF_X8_bottom_tier",
+      "tier": "bottom",
+      "count": 2896,
+      "area_each": 0.417536,
+      "total_area": 1209.184256,
+      "has_lef": true
+    },
+    {
+      "master": "SDFFRNQ_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 2880,
+      "area_each": 0.8947200000000001,
+      "total_area": 2576.7936000000004,
+      "has_lef": true
+    },
+    {
+      "master": "AND2_X2_top_tier",
+      "tier": "top",
+      "count": 2278,
+      "area_each": 1.3299999999999998,
+      "total_area": 3029.74,
+      "has_lef": true
+    },
+    {
+      "master": "XNOR2_X1_top_tier",
+      "tier": "top",
+      "count": 2146,
+      "area_each": 1.5959999999999999,
+      "total_area": 3425.0159999999996,
+      "has_lef": true
+    },
+    {
+      "master": "BUF_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 2135,
+      "area_each": 0.14912,
+      "total_area": 318.3712,
+      "has_lef": true
+    },
+    {
+      "master": "NOR2_X2_top_tier",
+      "tier": "top",
+      "count": 1952,
+      "area_each": 1.3299999999999998,
+      "total_area": 2596.16,
+      "has_lef": true
+    },
+    {
+      "master": "NAND2_X2_top_tier",
+      "tier": "top",
+      "count": 1861,
+      "area_each": 1.3299999999999998,
+      "total_area": 2475.1299999999997,
+      "has_lef": true
+    },
+    {
+      "master": "AOI21_X1_top_tier",
+      "tier": "top",
+      "count": 1812,
+      "area_each": 1.0639999999999998,
+      "total_area": 1927.9679999999996,
+      "has_lef": true
+    },
+    {
+      "master": "BUF_X16_top_tier",
+      "tier": "top",
+      "count": 1748,
+      "area_each": 6.6499999999999995,
+      "total_area": 11624.199999999999,
+      "has_lef": true
+    },
+    {
+      "master": "OR4_X1_top_tier",
+      "tier": "top",
+      "count": 1505,
+      "area_each": 1.5959999999999999,
+      "total_area": 2401.98,
+      "has_lef": true
+    },
+    {
+      "master": "NAND3_X1_top_tier",
+      "tier": "top",
+      "count": 1388,
+      "area_each": 1.0639999999999998,
+      "total_area": 1476.8319999999999,
+      "has_lef": true
+    },
+    {
+      "master": "AND2_X1_top_tier",
+      "tier": "top",
+      "count": 1017,
+      "area_each": 1.0639999999999998,
+      "total_area": 1082.0879999999997,
+      "has_lef": true
+    },
+    {
+      "master": "AOI22_X2_top_tier",
+      "tier": "top",
+      "count": 867,
+      "area_each": 2.3939999999999997,
+      "total_area": 2075.5979999999995,
+      "has_lef": true
+    },
+    {
+      "master": "CLKBUF_X2_top_tier",
+      "tier": "top",
+      "count": 836,
+      "area_each": 1.0639999999999998,
+      "total_area": 889.5039999999999,
+      "has_lef": true
+    },
+    {
+      "master": "OAI21_X2_top_tier",
+      "tier": "top",
+      "count": 806,
+      "area_each": 1.8619999999999999,
+      "total_area": 1500.772,
+      "has_lef": true
+    },
+    {
+      "master": "NOR3_X1_top_tier",
+      "tier": "top",
+      "count": 715,
+      "area_each": 1.0639999999999998,
+      "total_area": 760.7599999999999,
+      "has_lef": true
+    },
+    {
+      "master": "OR2_X1_top_tier",
+      "tier": "top",
+      "count": 674,
+      "area_each": 1.0639999999999998,
+      "total_area": 717.1359999999999,
+      "has_lef": true
+    },
+    {
+      "master": "AND3_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 630,
+      "area_each": 0.23859200000000003,
+      "total_area": 150.31296,
+      "has_lef": true
+    },
+    {
+      "master": "AOI21_X2_top_tier",
+      "tier": "top",
+      "count": 544,
+      "area_each": 1.8619999999999999,
+      "total_area": 1012.9279999999999,
+      "has_lef": true
+    },
+    {
+      "master": "NOR4_X2_top_tier",
+      "tier": "top",
+      "count": 464,
+      "area_each": 2.3939999999999997,
+      "total_area": 1110.8159999999998,
+      "has_lef": true
+    },
+    {
+      "master": "AND3_X2_top_tier",
+      "tier": "top",
+      "count": 457,
+      "area_each": 1.5959999999999999,
+      "total_area": 729.372,
+      "has_lef": true
+    },
+    {
+      "master": "OR3_X2_top_tier",
+      "tier": "top",
+      "count": 433,
+      "area_each": 1.5959999999999999,
+      "total_area": 691.068,
+      "has_lef": true
+    },
+    {
+      "master": "AND3_X1_top_tier",
+      "tier": "top",
+      "count": 409,
+      "area_each": 1.3299999999999998,
+      "total_area": 543.9699999999999,
+      "has_lef": true
+    },
+    {
+      "master": "NAND4_X2_top_tier",
+      "tier": "top",
+      "count": 391,
+      "area_each": 2.3939999999999997,
+      "total_area": 936.0539999999999,
+      "has_lef": true
+    },
+    {
+      "master": "BUF_X1_top_tier",
+      "tier": "top",
+      "count": 362,
+      "area_each": 0.7979999999999999,
+      "total_area": 288.876,
+      "has_lef": true
+    },
+    {
+      "master": "OAI22_X2_top_tier",
+      "tier": "top",
+      "count": 355,
+      "area_each": 2.3939999999999997,
+      "total_area": 849.8699999999999,
+      "has_lef": true
+    },
+    {
+      "master": "NAND3_X2_top_tier",
+      "tier": "top",
+      "count": 348,
+      "area_each": 1.8619999999999999,
+      "total_area": 647.976,
+      "has_lef": true
+    },
+    {
+      "master": "MUX2_X1_top_tier",
+      "tier": "top",
+      "count": 335,
+      "area_each": 1.8619999999999999,
+      "total_area": 623.77,
+      "has_lef": true
+    },
+    {
+      "master": "HA_X1_top_tier",
+      "tier": "top",
+      "count": 316,
+      "area_each": 2.6599999999999997,
+      "total_area": 840.56,
+      "has_lef": true
+    },
+    {
+      "master": "CLKBUF_X16_bottom_tier",
+      "tier": "bottom",
+      "count": 278,
+      "area_each": 0.775424,
+      "total_area": 215.567872,
+      "has_lef": true
+    },
+    {
+      "master": "CLKBUF_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 236,
+      "area_each": 0.14912,
+      "total_area": 35.19232,
+      "has_lef": true
+    },
+    {
+      "master": "OR3_X1_bottom_tier",
+      "tier": "bottom",
+      "count": 226,
+      "area_each": 0.23859200000000003,
+      "total_area": 53.921792,
+      "has_lef": true
+    },
+    {
+      "master": "NOR3_X2_top_tier",
+      "tier": "top",
+      "count": 212,
+      "area_each": 1.8619999999999999,
+      "total_area": 394.74399999999997,
+      "has_lef": true
+    },
+    {
+      "master": "OR3_X1_top_tier",
+      "tier": "top",
+      "count": 148,
+      "area_each": 1.3299999999999998,
+      "total_area": 196.83999999999997,
+      "has_lef": true
+    },
+    {
+      "master": "CLKBUF_X12_bottom_tier",
+      "tier": "bottom",
+      "count": 99,
+      "area_each": 0.59648,
+      "total_area": 59.051520000000004,
+      "has_lef": true
+    },
+    {
+      "master": "CLKBUF_X1_top_tier",
+      "tier": "top",
+      "count": 44,
+      "area_each": 0.7979999999999999,
+      "total_area": 35.111999999999995,
+      "has_lef": true
+    },
+    {
+      "master": "AND4_X2_top_tier",
+      "tier": "top",
+      "count": 15,
+      "area_each": 1.8619999999999999,
+      "total_area": 27.93,
+      "has_lef": true
+    },
+    {
+      "master": "OR4_X2_top_tier",
+      "tier": "top",
+      "count": 10,
+      "area_each": 1.8619999999999999,
+      "total_area": 18.619999999999997,
+      "has_lef": true
+    }
+  ],
+  "effective_area_imbalance": 3.643932859914938e-07,
+  "top_area_scale": 1.0
+}

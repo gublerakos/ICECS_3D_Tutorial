@@ -1,0 +1,10 @@
+{
+  "netlist": "cva6_bottom_reference.v",
+  "sha256": "6b563e040d447a2644fef507c0f8a3533b95992b2a706571c99a25e6b56c1b7a",
+  "compressed_sha256": "6412a7d0d159dd7dfa5ef10a65f991e196b6cfe96436b309c72d0feeff6fcbef",
+  "cva6_commit": "81245a47fad8fe1a5d562d953ef2662e099def76",
+  "configuration": "cv64a6_imafdc_sv39",
+  "synthesis_tool": "Cadence Genus 23.13-s073_1",
+  "synthesis_run": "cva6_45nm_top_15nm_bottom_20261013_104817_utc",
+  "sdc_sha256": "7a1decfb02bbfd768cb0f75798b195ff4d6b0dc466b6b881a9fd16879ff84f2f"
+}

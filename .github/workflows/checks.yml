@@ -1,0 +1,19 @@
+name: Tutorial script checks
+on: [push, pull_request]
+jobs:
+  scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Shell syntax
+        run: |
+          for file in 03_heterogeneous_3d/flow/*.sh 03_heterogeneous_3d/tests/*.sh; do
+            bash -n "$file"
+          done
+      - name: SDC regression
+        run: python3 -m unittest discover -s 03_heterogeneous_3d/tests
+      - name: Verify bundled inputs
+        run: python3 03_heterogeneous_3d/setup.py

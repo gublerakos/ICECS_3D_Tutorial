@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+03_heterogeneous_3d/runs/
+03_heterogeneous_3d/data/cva6_bottom_reference.v
+03_heterogeneous_3d/data/.unpack-*
+*.odb
+*.def
+*.guide
+*.log
+*.log.*
+.DS_Store

@@ -1,0 +1,11 @@
+OpenROAD v2.0-25056-gb6c92cb466
+CVA6 45 nm top / 15 nm bottom; full design, v2
+Placement Analysis
+---------------------------------
+total displacement    2524191.7 u
+average displacement        1.0 u
+max displacement          170.3 u
+original HPWL        35249271.6 u
+legalized HPWL       38072517.3 u
+delta HPWL                    8 %
+

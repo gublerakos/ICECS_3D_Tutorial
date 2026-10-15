@@ -1,0 +1,38 @@
+diff --git a/src/dpl/src/infrastructure/Grid.cpp b/src/dpl/src/infrastructure/Grid.cpp
+index b561adeba6..a817dc399d 100644
+--- a/src/dpl/src/infrastructure/Grid.cpp
++++ b/src/dpl/src/infrastructure/Grid.cpp
+@@ -699,19 +699,21 @@ void Grid::examineRows(dbBlock* block)
+     row_y_dbu_to_index_[dbu_y] = GridY{0};
+     row_y_dbu_to_index_[dbu_y + site->getHeight()] = GridY{0};
+ 
++    first_site = site;
++    site_width_ = DbuX{site->getWidth()};
+     // Check all sites have equal width
+-    if (!first_site) {
+-      first_site = site;
+-      site_width_ = DbuX{site->getWidth()};
+-    } else if (site->getWidth() != site_width_) {
+-      logger_->error(DPL,
+-                     51,
+-                     "Site widths are not equal: {}={} != {}={}",
+-                     first_site->getName(),
+-                     site_width_,
+-                     site->getName(),
+-                     site->getWidth());
+-    }
++    // if (!first_site) {
++    //   first_site = site;
++    //   site_width_ = DbuX{site->getWidth()};
++    // } else if (site->getWidth() != site_width_) {
++    //   logger_->error(DPL,
++    //                  51,
++    //                  "Site widths are not equal: {}={} != {}={}",
++    //                  first_site->getName(),
++    //                  site_width_,
++    //                  site->getName(),
++    //                  site->getWidth());
++    // }
+   });
+ 
+   if (!hasHybridRows() && !has_non_hybrid_rows) {

@@ -1,0 +1,105 @@
+mapped_netlist_tier_rewrite_report
+==========================================
+top_area_scale: 1.0
+sequential_policy: balance
+top_physical_mode: lef
+total_instances: 2493045
+convertible_to_top_instances: 1919019
+nonconvertible_instances: 574026
+assigned_top_count: 513073
+assigned_bottom_count: 1979972
+forced_bottom_sequential_count: 0
+top_area: 652317.120000
+bottom_area: 652317.357700
+top_effective_area: 652317.120000
+bottom_effective_area: 652317.357700
+bottom_over_top_effective_area_ratio: 1.000000
+top_area_pct: 50.000
+bottom_area_pct: 50.000
+
+Top masters by count:
+    135801 OAI22_X1_top_tier
+    112031 AOI22_X1_top_tier
+     67444 INV_X1_top_tier
+     32466 NAND2_X1_top_tier
+     30480 OAI21_X1_top_tier
+     24826 NAND4_X1_top_tier
+     18420 BUF_X4_top_tier
+     10763 INV_X4_top_tier
+      8767 XOR2_X1_top_tier
+      8491 NOR4_X1_top_tier
+      7863 INV_X8_top_tier
+      5959 BUF_X8_top_tier
+      5773 NOR2_X1_top_tier
+      5060 OR2_X2_top_tier
+      4518 INV_X2_top_tier
+      3754 BUF_X2_top_tier
+      3142 FA_X1_top_tier
+      3067 AND4_X1_top_tier
+      2278 AND2_X2_top_tier
+      2146 XNOR2_X1_top_tier
+      1952 NOR2_X2_top_tier
+      1861 NAND2_X2_top_tier
+      1812 AOI21_X1_top_tier
+      1748 BUF_X16_top_tier
+      1505 OR4_X1_top_tier
+      1388 NAND3_X1_top_tier
+      1017 AND2_X1_top_tier
+       867 AOI22_X2_top_tier
+       836 CLKBUF_X2_top_tier
+       806 OAI21_X2_top_tier
+       715 NOR3_X1_top_tier
+       674 OR2_X1_top_tier
+       544 AOI21_X2_top_tier
+       464 NOR4_X2_top_tier
+       457 AND3_X2_top_tier
+       433 OR3_X2_top_tier
+       409 AND3_X1_top_tier
+       391 NAND4_X2_top_tier
+       362 BUF_X1_top_tier
+       355 OAI22_X2_top_tier
+       348 NAND3_X2_top_tier
+       335 MUX2_X1_top_tier
+       316 HA_X1_top_tier
+       212 NOR3_X2_top_tier
+       148 OR3_X1_top_tier
+        44 CLKBUF_X1_top_tier
+        15 AND4_X2_top_tier
+        10 OR4_X2_top_tier
+
+Bottom masters by count:
+    516887 DFFRNQ_X1_bottom_tier
+    401020 INV_X1_bottom_tier
+    245730 OAI22_X1_bottom_tier
+    217516 NAND2_X1_bottom_tier
+    181473 OAI21_X1_bottom_tier
+    146439 AOI22_X1_bottom_tier
+     38213 NOR2_X1_bottom_tier
+     33343 NAND4_X1_bottom_tier
+     30042 INV_X2_bottom_tier
+     26868 BUF_X2_bottom_tier
+     24828 DFFSNQ_X1_bottom_tier
+     13706 SDFFSNQ_X1_bottom_tier
+     13501 OR2_X2_bottom_tier
+     11433 NOR4_X1_bottom_tier
+     10905 AOI21_X1_bottom_tier
+      8151 NAND3_X1_bottom_tier
+      5921 AND2_X1_bottom_tier
+      5724 CLKBUF_X2_bottom_tier
+      5706 CLKBUF_X4_bottom_tier
+      5144 NOR2_X2_bottom_tier
+      5033 INV_X4_bottom_tier
+      4244 NOR3_X1_bottom_tier
+      4230 NAND2_X2_bottom_tier
+      4005 OR2_X1_bottom_tier
+      3784 AND2_X2_bottom_tier
+      3719 INV_X12_bottom_tier
+      3027 BUF_X12_bottom_tier
+      2896 CLKBUF_X8_bottom_tier
+      2880 SDFFRNQ_X1_bottom_tier
+      2135 BUF_X1_bottom_tier
+       630 AND3_X1_bottom_tier
+       278 CLKBUF_X16_bottom_tier
+       236 CLKBUF_X1_bottom_tier
+       226 OR3_X1_bottom_tier
+        99 CLKBUF_X12_bottom_tier

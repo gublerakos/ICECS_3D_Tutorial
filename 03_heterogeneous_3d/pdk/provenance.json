@@ -1,0 +1,31 @@
+{
+  "nangate_tech.lef": {
+    "source": "Workshop_testcase/do_synth/3D_Nangate45_PDK/nangate_tech.lef",
+    "sha256": "2addc5b0f9a1b7943c075ae09ead71815c591067ffcea96e4951f62c73180f00",
+    "source_sha256": "18c6c52a625023df8a8cd9e43c02e060157edf599f78aaac54ac7d83b13dfe20"
+  },
+  "nangate_stdcell_bottom_tier.lef": {
+    "source": "Workshop_testcase/do_synth/3D_Nangate45_PDK/nangate_stdcell_bottom_tier.lef",
+    "sha256": "8f1dbb13a37a10bd521b233f1cc76cf83e7addfa9fc7cde4cbd755d8bfea538e",
+    "source_sha256": "2cba0c4413171a4411d500272f1999c8afa247f34c2db8bdec6e117642375a34"
+  },
+  "nangate_typical_top_tier.lib": {
+    "source": "Workshop_testcase/do_synth/3D_Nangate45_PDK/nangate_typical_top_tier.lib",
+    "sha256": "4890da7db23e6f89d8a37d4d5f466974398ecad4e127d012490e8507165671c3",
+    "source_sha256": "8f07818a0fd10a48abf4e06a7bf4bec8565f4a46ee01722a6c914199dc726ff5"
+  },
+  "Nangate45.tracks": {
+    "source": "Workshop_testcase/do_synth/3D_Nangate45_PDK/Nangate45.tracks",
+    "sha256": "d859b35730ae0d4948e33645a4642e660de648d31e651bfef570bd0232622b2b",
+    "source_sha256": "3010f2f1e9ab4f6f4113ca25de79889751c77d5f04969c5690e8b483e7efe3c1"
+  },
+  "nangate_stdcell_top_tier.lef": {
+    "source": "Workshop_testcase/do_synth/3D_monolithic_PDK/nangate_stdcell_top_tier.lef",
+    "sha256": "34635153f1563691cb522347d3dd792bfc8e570878cc3f171e0a6cc56df828e7",
+    "source_sha256": "29e9085847ade7d61a19cf8814b25b61f28a034bf9b131f2a85d98b0720154ab"
+  },
+  "nangate15_original.lib": {
+    "source": "NANGATE-15nm/NanGate_15nm_OCL_v0.1_2014_06_Apache.A/front_end/timing_power_noise/NLDM/NanGate_15nm_OCL_typical_conditional_nldm.lib",
+    "sha256": "095358eae5326b9ab5530b42b9835e190df7bf2d35bdd136b05940bfff01dfc3"
+  }
+}
