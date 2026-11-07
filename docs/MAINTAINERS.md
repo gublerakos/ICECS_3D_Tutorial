@@ -1,7 +1,7 @@
 # Maintaining and publishing the tutorial
 
-The local repository has no remote and has not been pushed. Parts 1 and 2 are
-reserved; their `.gitkeep` files make the empty folders visible in Git. Add the
+The local repository has no remote and has not been pushed. Part 1 is
+reserved; its `.gitkeep` file makes the empty folder visible in Git. Add the
 presentations later. The proposal remains in `docs/` as context.
 
 The CVA6 input is gzip-compressed to about 44 MiB and is suitable for this initial

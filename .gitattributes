@@ -1,0 +1,2 @@
+02_monolithic_3d/**/*.def filter=lfs diff=lfs merge=lfs -text
+02_monolithic_3d/**/*.v filter=lfs diff=lfs merge=lfs -text
